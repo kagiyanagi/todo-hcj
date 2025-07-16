@@ -30,4 +30,4 @@ Then just make you changes ✍️ and create pull request!
 
 ---
 
-Made with ❤️, ✨ and [@aiamanme](https://github.com/aiamanme)
+Made with ❤️, ✨ and [@kagiyanagi](https://github.com/kagiyanagi)
