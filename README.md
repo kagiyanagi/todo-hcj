@@ -1,33 +1,18 @@
-# A Usefull and Powerful 💪 ToDo app in plane HTML CSS JavaScript
+# ToDo App
 
-### File structure :
+A simple, lightweight ToDo application built with vanilla HTML, CSS, and JavaScript. It allows users to add, edit, delete, and mark tasks as completed, with local storage persistence.
 
-```
-  /
-├── assets/
-│   └── original-logo.webp
-│   └── logo.webp
-│   └── app_logo.ico
-│   └── app_design.webp
-├── index.html
-├── script.js
-├── style.css
-├── 404.html
-└── README.md
-```
+## Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Progress bar for completed/uncompleted tasks
+- Persistent storage using browser's localStorage
+- Responsive design for mobile and desktop
 
----
+## License
+MIT License. See [LICENSE](LICENSE) for details.
 
-## Like to contribut? ✌️
-
-### Follow the commands.
-
-1. But first you have to clone the repo
-- ```git clone https://github.com/kagiyanagi/todo-hcj.git```
-
-All done 🤔?  
-Then just make you changes ✍️ and create pull request!  
-
----
-
-Made with ❤️, ✨ and [@kagiyanagi](https://github.com/kagiyanagi)
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first.
